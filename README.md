@@ -1,4 +1,12 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Bzzb92NKwUOj0FjQOd/giphy.gif" />
+  </div>
+  
+<h1 align="center">
+  hey there
+  <img src="https://media.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" width="50px"/>
+</h1>
+
 
 <!--
 **LenaLeri/LenaLeri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
